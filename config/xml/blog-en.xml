@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Speed of Lite: How LiteSpeed Web Servers Power Enterprise </title>
+    <link>https://www.prestashop.com/en/blog/hostinger-lite-prestashop</link>
+    <description>Software performance is always important. It’s even more important, however, when it directly impacts your customers.</description>
+     <pubDate>Wed, 02 Nov 2022 15:36:14 +0100</pubDate>
+ <dc:creator>Merkys Maliukevičius</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/hostinger-lite-prestashop</guid>
+  </item>
+  <item>
+    <title>How to Secure a Prestashop Store from Hackers in 2022?</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-store-secure</link>
+    <description>For the past few years, the online retailing industry has acquired immense popularity all over the globe.</description>
+     <pubDate>Wed, 02 Nov 2022 11:03:44 +0100</pubDate>
+ <dc:creator>John Ahya</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-store-secure</guid>
+  </item>
+  <item>
+    <title>What are the benefits of cryptocurrencies in ecommerce?</title>
+    <link>https://www.prestashop.com/en/en/cryptopayments-coingate</link>
+    <description>There are thousands of cryptocurrencies and tokens, each with its own structure, purpose and use case.</description>
+     <pubDate>Mon, 24 Oct 2022 17:42:45 +0200</pubDate>
+ <dc:creator>Vilius Barbaravičius</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/en/cryptopayments-coingate</guid>
+  </item>
+  <item>
+    <title>Installment payments: what merchants think about this must-have for online stores</title>
+    <link>https://www.prestashop.com/en/blog/bnpl-merchants-feedback</link>
+    <description>The world of ecommerce has been talking about it for a while; Buy Now Pay Later is now a must for online stores. This payment method has been democratized and is not limited to specific sectors.</description>
+     <pubDate>Fri, 14 Oct 2022 18:21:17 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/bnpl-merchants-feedback</guid>
+  </item>
+  <item>
+    <title>FAQ Pages for SEO: A Win-Win SEO Strategy For the User and Google</title>
+    <link>https://www.prestashop.com/en/blog/faq-google-ecommerce</link>
+    <description></description>
+     <pubDate>Tue, 11 Oct 2022 11:24:56 +0200</pubDate>
+ <dc:creator>Mads Nielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/faq-google-ecommerce</guid>
+  </item>
+  <item>
+    <title>How do I accept crypto payments on my website?</title>
+    <link>https://www.prestashop.com/en/blog/crypto-accept-ecommerce</link>
+    <description>Accepting crypto payments on your website opens the door for new opportunities as your business grows. </description>
+     <pubDate>Fri, 07 Oct 2022 17:44:53 +0200</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/crypto-accept-ecommerce</guid>
+  </item>
+  <item>
+    <title>5 payment mistakes that prevent a seamless customer experience</title>
+    <link>https://www.prestashop.com/en/blog/payment-mistakes</link>
+    <description>With the pandemic-driven shift toward eCommerce, consumers have become accustomed to convenient, blended shopping experiences between online and offline environments.</description>
+     <pubDate>Mon, 12 Sep 2022 13:12:53 +0200</pubDate>
+ <dc:creator>Kevin O&#039;Connel</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/payment-mistakes</guid>
+  </item>
+  <item>
+    <title>What is the future for ecommerce in the metaverse?</title>
+    <link>https://www.prestashop.com/en/blog/metaverse-ecommerce-future</link>
+    <description>Facebook is one of the largest advertising platforms in the world. Facebook’s transition from an ad platform to one that includes transactions will be massive.</description>
+     <pubDate>Mon, 12 Sep 2022 10:45:55 +0200</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/metaverse-ecommerce-future</guid>
+  </item>
+  <item>
+    <title>What you need to know about Shopify vs PrestaShop</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-vs-shopify-comparison</link>
+    <description>Shopify overview
+In 2006, the Canadian ecommerce SaaS platform Shopify was launched. </description>
+     <pubDate>Thu, 08 Sep 2022 11:41:19 +0200</pubDate>
+ <dc:creator>Sébastien Godard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-vs-shopify-comparison</guid>
+  </item>
+  <item>
+    <title>Magento VS PrestaShop, everything you need to know</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-versus-magento</link>
+    <description>Introducing Magento
+In 2008 Varien created Magento, an open source ecommerce CMS (Content Management System). The project was based on the Zend framework. </description>
+     <pubDate>Wed, 31 Aug 2022 13:12:30 +0200</pubDate>
+ <dc:creator>Sébastien Godard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-versus-magento</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>custompayment</name>
+    <displayName><![CDATA[Custom Payment]]></displayName>
+    <version><![CDATA[1.1.0]]></version>
+    <description><![CDATA[Configure your own payment method with custom order status and response message.]]></description>
+    <author><![CDATA[Inform-All]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure about removing the module Custom Payment?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,2 @@
+*ERROR* 	v1.7.6.9	2022/02/25 - 17:05:52: Date must be a string at line 155 in file classes/helper/HelperCalendar.php
+*ERROR* 	v1.7.6.9	2022/02/25 - 18:59:45: Db-&gt;executeS() must be used only with select, show, explain or describe queries at line 607 in file classes/db/Db.php

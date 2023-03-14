@@ -1,0 +1,297 @@
+.pspc15 #pspc-new-block-btn {
+    padding: 3px 10px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+.ps15.pspc-sources-wrp {
+    margin-bottom: 20px;
+}
+
+.ps15.pspc-sources-wrp label {
+    width: auto;
+}
+
+.ps15 .btn-toggle-children-sources {
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.ps15 .checkbox-level-1 {
+    margin-left: 270px;
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.ps15 .checkbox-level-1 .checkbox {
+    margin-left: 10px;
+    margin-bottom: 0px;
+    display: block;
+    clear: both;
+}
+
+.pspc15 table.pspc_block .dropdown-toggle {
+    display: none;
+}
+
+.pspc15 table.pspc_block .dropdown-menu {
+    display: inline-block;
+}
+
+.ps15 #apr-product {
+    width: 400px;
+    max-width: 100%;
+}
+
+pspc_more_options_row.ps15,
+.pspc_more_app_options_row.ps15 {
+    background: white;
+    padding-top: 15px;
+}
+
+.pspc_more_options_row.ps15 .margin-form,
+.pspc_more_app_options_row.ps15 .margin-form {
+    padding-bottom: 0;
+}
+
+.pspc15 #pspc-countdown-list .pspc-items-toggle {
+    background: none;
+    position: relative;
+    top: -2px;
+}
+.pspc15 .icon-caret-down {
+    border: solid #555;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.pspc15 .icon-caret-up {
+    border: solid #555;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2px;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+.pspc15 .pspc-item-link-wrp a {
+    color: #436eb2;
+}
+.pspc15 .pspc-item-link-wrp a:hover {
+    text-decoration: underline;
+}
+
+.pspc15 .label {
+    display: inline;
+    padding: 0.15em 0.4em;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.pspc15 .label-success {
+    background-color: #72C279;
+}
+.pspc15 .label-danger {
+    background-color: #E08F95;
+}
+.pspc15 .label-default {
+    background-color: #999;
+}
+.pspc15 .label-primary {
+    background-color: #3d7ee0;
+}
+.pspc15 .btn-group-action .dropdown-toggle {
+    display: none;
+}
+.pspc15 .btn-group-action .dropdown-menu {
+    display: inline-block;
+}
+.pspc15 .form-group {
+    padding: 4px 0;
+    overflow: hidden;
+}
+.pspc15 label {
+    font-weight: normal;
+}
+.pspc15 .label-tooltip {
+    text-decoration: none;
+    font-size: 13px;
+    color: #3586AE;
+    background-color: #edf7fb;
+    border: none;
+    border-bottom: solid 1px #D8EDF7;
+    padding: 0 5px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+/* Tooltip container */
+.pspc15 .label-tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+/* Tooltip text */
+.pspc15 .label-tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-weight: normal;
+    text-shadow: none;
+}
+
+/* Tooltip arrow */
+.pspc15 .label-tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.pspc15 .label-tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.pspc15 .pspc-prodselects-wrp select {
+    width: 100%;
+    padding: 5px;
+}
+.pspc15 .btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 8px;
+    font-size: 12px;
+    line-height: 1.42857;
+    border-radius: 3px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.pspc15 .btn-default {
+    color: #363A41;
+    background-color: #fff;
+    border-color: #DEDEDE;
+}
+.pspc15 .btn-xs, .pspc15 .btn-group-xs>.btn {
+    padding: 1px 5px;
+    font-size: 11px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+.pspc15 .btn:hover, .pspc15 .btn:focus {
+    color: #363A41;
+    text-decoration: none;
+}
+.pspc15 .btn:active, .pspc15 .btn.active {
+    outline: 0;
+    background-image: none;
+    -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0.125);
+    box-shadow: inset 0 3px 5px rgba(0,0,0,0.125);
+}
+.pspc15 .btn-default:hover, .pspc15 .btn-default:focus, .pspc15 .btn-default:active, .pspc15 .btn-default.active, .open>.pspc15 .btn-default.dropdown-toggle {
+    color: #363A41;
+    background-color: #e6e6e6;
+    border-color: #bfbfbf;
+}
+.pspc15 .btn.btn-default:hover {
+    color: #fff;
+    background-color: #00aff0;
+    border-color: #008abd;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.pspc15 .pspc-search-combinations-label {
+    float: none;
+    display: inline-block;
+}
+.pspc15 .pspc-select-wrp-products h4 {
+    padding: 0;
+    margin: 0;
+}
+.pspc15 .pspc-product-search {
+    width: 100%;
+    padding: 5px;
+}
+.pspc15 .badge.badge-info {
+    background-color: #25b9d7;
+}
+.pspc15 .btn-default .badge {
+    color: #fff;
+}
+.pspc15 .badge {
+    padding: 1px 5px;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: inherit;
+    letter-spacing: 0.0625em;
+    background-color: #00aff0;
+}
+.pspc15 .badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 5px;
+    font-size: 11px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    background-color: #999;
+    border-radius: 10px;
+}
+.pspc15 .pspc-prodselects-wrp .category-filter {
+    overflow: hidden;
+}
+.pspc15 #PRODUCT_LIST_POSITION {
+    margin-left: 10px;
+}
+.pspc15 .pspc-list-position-group {
+    float: none !important;
+    margin-bottom: 10px;
+}
+.pspc15 .pspc-colors-wrp {
+    overflow: hidden;
+    clear: both;
+    padding-left: 260px;
+}
+.pspc15 #Module_form_submit_btn {
+    margin-top: 15px;
+}
+.pspc15.pstg-tabs {
+    overflow: hidden;
+}
+.pspc15 .edit-countdown-wrp .datepicker-row {
+    margin-bottom: 15px;
+}
